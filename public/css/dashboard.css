@@ -1,0 +1,67 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    width:80%;
+
+    margin:auto;
+
+    padding:20px;
+
+}
+
+.summary{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+}
+
+.card{
+
+    flex:1;
+
+    border:1px solid black;
+
+    padding:20px;
+
+    text-align:center;
+
+}
+
+button{
+
+    padding:10px 20px;
+
+    margin-right:10px;
+
+    cursor:pointer;
+
+}
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+th,td{
+
+    border:1px solid black;
+
+    padding:10px;
+
+    text-align:center;
+
+}
+
+th{
+
+    background:#f2f2f2;
+
+}
